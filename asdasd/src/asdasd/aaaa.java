@@ -1,5 +1,7 @@
 package asdasd;
 
 public class aaaa {
-  System.out.println("Pig");
+  public static void main(String[] args){
+    System.out.println("Pig");
+  }
 }
